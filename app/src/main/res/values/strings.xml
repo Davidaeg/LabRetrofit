@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabRetrofitDavid</string>
+    <string name="countryList">Lista de Países</string>
+    <string name="cases">Cantidad de Casos:</string>
+    <string name="date">Fecha:</string>
+    <string name="noData">Esperando Datos</string>
+    <string name="waiting">Cargando...</string>
+</resources>
